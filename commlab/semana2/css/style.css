@@ -1,0 +1,59 @@
+h1{
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: full-width;
+  font-size: 35px;
+  font-family: Stylus BT;
+  font-weight: bold;
+  line-height: 0.5;
+}
+head{
+   font-family: Stylus BT;
+   color: white;
+}
+
+h3{
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: full-width;
+  font-size: 20px;
+  font-family: Stylus BT;
+  font-weight: bold;
+  line-height: 0.5;
+}
+
+body{
+  background-color: #6E9EF4;
+
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+}
+
+
+
+div{
+  display: block;
+  width: 300px;
+  height: 250px;
+border-style: solid;
+border-width: 1px;
+border-color: #FFFFFF;
+position: static;
+float: none;
+width: 100px;
+height: 200px;
+
+padding: 30px 120px 0px 50px;
+margin: 50px 80px;
+image-orientation: fixed;
+
+}
+
+img{
+image-orientation: fixed;
+ }
